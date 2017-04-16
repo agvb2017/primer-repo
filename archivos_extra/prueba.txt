@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Este es un archivo modificado
+=======
+Este es un archivo modificado por AGVB
+
+Modificado desde el branch bugFix
+>>>>>>> bugFix
