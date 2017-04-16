@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Este es un archivo modificado por AGVB
-=======
-Este archivo es para TEST
->>>>>>> test
+Este es un archivo modificado
